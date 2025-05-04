@@ -1,0 +1,113 @@
+/* Cor de fundo do body */
+body {
+  background-color: #f0f0f0; /* Cinza claro */
+  font-family: 'Arial', sans-serif; /* Fonte padrão para o corpo */
+  color: #333; /* Cor do texto principal */
+  margin: 0;
+  padding: 0;
+}
+
+/* Estilos para o título principal */
+.titulo {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.titulo h1 {
+  font-size: 3em;
+  color: green; /* Cor verde */
+  font-family: 'Arial', sans-serif;
+  margin: 0; /* Remove qualquer margem extra que possa afetar o layout */
+}
+
+/* Estilos para o subtítulo */
+.subtitulo {
+  font-size: 1.2em;
+  color: #555; /* Cor de texto mais suave para o subtítulo */
+  font-style: italic;
+  margin-top: 10px;
+}
+
+/* Estilos para os grupos de foco */
+.grupo {
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.grupo h2 {
+  font-size: 2em;
+  color: #333;
+}
+
+.grupo p {
+  font-size: 1.1em;
+  color: #666;
+}
+
+.grupo ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.grupo li {
+  font-size: 1.1em;
+  color: #333;
+  margin-bottom: 8px;
+}
+
+.grupo img {
+  max-width: 300px;
+  height: auto;
+  border-radius: 8px;
+  margin-top: 15px;
+}
+
+/* Estilos para o rodapé */
+#rodape {
+  margin-top: 50px;
+  padding: 20px;
+  background-color: #f4f4f4;
+  border-top: 2px solid #ccc;
+}
+
+.facilities,
+.contact-info {
+  margin-bottom: 20px;
+}
+
+.facilities h3,
+.contact-info h3 {
+  font-size: 1.5em;
+  color: #333;
+}
+
+.facilities ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.facilities li {
+  font-size: 1.1em;
+  color: #666;
+  margin-bottom: 8px;
+}
+
+.contact-info p {
+  font-size: 1.1em;
+  color: #666;
+  margin-bottom: 8px;
+}
+
+.contact-info a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.contact-info a:hover {
+  text-decoration: underline;
+  
+}
+
+  
